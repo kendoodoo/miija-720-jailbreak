@@ -1,25 +1,14 @@
-Mijia-720P-hack project
+miija 720 jailbreak (Mijia-720P-hack)
 =======================
 
-WARNING - DISCLAIMER
-====================
-**Many files on the Mijia 720P are writable. Be very careful when you modify files on it, you might brick it forever.**
+Originally by [ghoost82](https://github.com/ghoost82]) (Jan Sperling). I am just doing some enhancement to the project, since it is arguably dead (last change from 7 years ago).
+
+Being a embedded-til-dead peep, I must do my job.
 
 Purpose
 =======
 
 This project is a collection of scripts and binaries file to hack your Xiaomi Mijia 720P camera.
-
-![Alt text](mijia720p.png?raw=true "Mijia 720P camera")
-
-This camera has the default following features:
-* Wifi
-* Night vision
-* Motion detection: a video file is generated if a motion have been detected in the last 60 seconds.
-* Send video data over the network on Chinese servers in the cloud to allow people to view camera data from their smartphone wherever they are.
-* Setup thanks to a smartphone application.
-* Local video storage on a SD card
-* No RTSP server
 
 This hack includes:
 * No more cloud feature (nothing goes out of your local network)
@@ -38,7 +27,7 @@ Planed futures:
 * Motor control
 * Replace Chinese voice files with English
 
-Installation on the Mijia 720P camera
+Installation
 =====================================
 
 The memory card must stay in the camera ! If you remove it, the camera will start without using the hack.
